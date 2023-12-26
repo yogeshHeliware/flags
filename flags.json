@@ -1,3 +1,4 @@
 {
-    "sign_up":true
+    "sign_up":true,
+    "delete_user":true
 }
