@@ -1,4 +1,4 @@
 {
-    "sign_up":false,
-    "delete_user":false
+    "sign_up":true,
+    "delete_user":true
 }
